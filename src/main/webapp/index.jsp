@@ -17,7 +17,7 @@
         /* Header Styles */
         header {
             background: linear-gradient(135deg, #1f2937, #4b5563);
-            color: white;
+            color: black;
             padding: 40px 20px;
             text-align: center;
         }
